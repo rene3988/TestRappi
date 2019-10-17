@@ -30,8 +30,8 @@ d 2/Movie$ListDeserializer
 m 0 2/Movie$ListDeserializer deserialize
 a org.jetbrains.annotations.Nullable 3
 m 3 2/Movie$ListDeserializer deserialize
-m 0 2/Movie$ListDeserializer deserialize
 m 3 2/Movie$ListDeserializer deserialize
+m 0 2/Movie$ListDeserializer deserialize
 m 3 2/Movie$ListDeserializer deserialize
 a android.arch.persistence.room.PrimaryKey 4
 f 4 2/Movie id
@@ -112,9 +112,9 @@ c 2 3/Trailer
 d 3/Trailer$ListDeserializer
 m 0 3/Trailer$ListDeserializer deserialize
 m 3 3/Trailer$ListDeserializer deserialize
-m 3 3/Trailer$ListDeserializer deserialize
-m 3 3/Trailer$ListDeserializer deserialize
 m 0 3/Trailer$ListDeserializer deserialize
+m 3 3/Trailer$ListDeserializer deserialize
+m 3 3/Trailer$ListDeserializer deserialize
 f 4 3/Trailer id
 f 3 3/Trailer id
 m 3 3/Trailer getId
@@ -267,9 +267,9 @@ d 6/Review
 c 2 6/Review
 d 6/Review$ListDeserializer
 m 0 6/Review$ListDeserializer deserialize
-m 3 6/Review$ListDeserializer deserialize
-m 3 6/Review$ListDeserializer deserialize
 m 0 6/Review$ListDeserializer deserialize
+m 3 6/Review$ListDeserializer deserialize
+m 3 6/Review$ListDeserializer deserialize
 m 3 6/Review$ListDeserializer deserialize
 f 4 6/Review id
 f 3 6/Review id

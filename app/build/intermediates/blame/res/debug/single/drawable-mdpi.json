@@ -4,7 +4,15 @@
         "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/drawable-mdpi/ic_patrick.png"
     },
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_calendar.png",
+        "source": "/Users/renecabanas/Desktop/Directory/TestRappi/app/src/main/res/drawable-mdpi/ic_calendar.png"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_calendar.png",
         "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/drawable-mdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_patrick.png",
+        "source": "/Users/renecabanas/Desktop/Directory/TestRappi/app/src/main/res/drawable-mdpi/ic_patrick.png"
     }
 ]

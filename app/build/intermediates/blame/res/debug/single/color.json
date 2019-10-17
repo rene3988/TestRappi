@@ -1,7 +1,7 @@
 [
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
@@ -12,24 +12,92 @@
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_search_url_text.xml"
-    },
-    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/res/color/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_default.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
@@ -40,12 +108,12 @@
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
@@ -56,12 +124,24 @@
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
@@ -76,12 +156,20 @@
         "source": "/Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/res/color/design_tint_password_toggle.xml"
     },
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",

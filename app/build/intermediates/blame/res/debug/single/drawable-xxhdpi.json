@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_patrick.png",
+        "source": "/Users/renecabanas/Desktop/Directory/TestRappi/app/src/main/res/drawable-xxhdpi/ic_patrick.png"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_calendar.png",
         "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/drawable-xxhdpi/ic_calendar.png"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_patrick.png",
         "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/drawable-xxhdpi/ic_patrick.png"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_calendar.png",
+        "source": "/Users/renecabanas/Desktop/Directory/TestRappi/app/src/main/res/drawable-xxhdpi/ic_calendar.png"
     }
 ]

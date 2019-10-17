@@ -4,6 +4,14 @@
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }

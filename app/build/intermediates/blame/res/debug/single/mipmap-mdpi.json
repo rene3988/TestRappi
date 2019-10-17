@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/renecabanas/Desktop/Directory/TestRappi/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

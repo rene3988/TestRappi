@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_action.xml"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_action.xml"
     },
@@ -8,11 +12,23 @@
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/Directory/TestRappi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/res/layout-v21/notification_template_custom_big.xml"
     }
 ]
