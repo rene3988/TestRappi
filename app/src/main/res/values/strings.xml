@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rene Movie</string>
+    <string name="movin_logo_description">Rene Image Logo</string>
+    <string name="star_icon_description">Star icon</string>
+    <string name="data_loading_popcorn">The life is a movie …</string>
+</resources>

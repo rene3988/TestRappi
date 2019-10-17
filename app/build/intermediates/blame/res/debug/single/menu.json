@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/menu/detail_menu.xml",
+        "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/menu/detail_menu.xml"
+    },
+    {
+        "merged": "/Users/renecabanas/Desktop/TestRappi/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/renecabanas/Desktop/TestRappi/app/src/main/res/menu/main_menu.xml"
+    }
+]

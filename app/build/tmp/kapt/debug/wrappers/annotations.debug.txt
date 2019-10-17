@@ -1,0 +1,300 @@
+p com.renecabanas.testrappi.themoviedb.base 0
+d 0/BaseAdapter
+a org.jetbrains.annotations.NotNull 0
+f 0 0/BaseAdapter dataSource
+m 0 0/BaseAdapter getDataSource
+m 0 0/BaseAdapter onCreateViewHolder
+m 0 0/BaseAdapter instantiateViewHolder
+d 0/BaseViewHolder
+d 0/BaseLifecycleActivity
+a kotlin.Suppress 1
+c 1 0/BaseLifecycleActivity
+m 0 0/BaseLifecycleActivity getVmClass
+f 0 0/BaseLifecycleActivity viewModel
+m 0 0/BaseLifecycleActivity getViewModel
+m 0 0/BaseLifecycleActivity getLifecycle
+p com.renecabanas.testrappi.themoviedb 1
+d 1/App
+d 1/ReneConfig
+f 0 1/ReneConfig API_KEY
+m 0 1/ReneConfig getAPI_KEY
+f 0 1/ReneConfig API_BASE_URL
+m 0 1/ReneConfig getAPI_BASE_URL
+f 0 1/ReneConfig IMG_BASE_URL
+m 0 1/ReneConfig getIMG_BASE_URL
+p com.renecabanas.testrappi.themoviedb.data.movie 2
+d 2/Movie
+a android.arch.persistence.room.Entity 2
+c 2 2/Movie
+d 2/Movie$ListDeserializer
+m 0 2/Movie$ListDeserializer deserialize
+a org.jetbrains.annotations.Nullable 3
+m 3 2/Movie$ListDeserializer deserialize
+m 0 2/Movie$ListDeserializer deserialize
+m 3 2/Movie$ListDeserializer deserialize
+m 3 2/Movie$ListDeserializer deserialize
+a android.arch.persistence.room.PrimaryKey 4
+f 4 2/Movie id
+f 3 2/Movie id
+m 3 2/Movie getId
+a com.google.gson.annotations.SerializedName 5
+f 5 2/Movie originalTitle
+f 3 2/Movie originalTitle
+m 3 2/Movie getOriginalTitle
+f 5 2/Movie posterPath
+f 3 2/Movie posterPath
+m 3 2/Movie getPosterPath
+f 3 2/Movie overview
+m 3 2/Movie getOverview
+f 5 2/Movie voteAverage
+f 3 2/Movie voteAverage
+m 3 2/Movie getVoteAverage
+f 3 2/Movie popularity
+m 3 2/Movie getPopularity
+f 5 2/Movie releaseDate
+f 3 2/Movie releaseDate
+m 3 2/Movie getReleaseDate
+f 3 2/Movie favorite
+m 3 2/Movie getFavorite
+d 2/MovieRemoteDS
+m 0 2/MovieRemoteDS getPopular
+m 0 2/MovieRemoteDS getTopRated
+d 2/MovieDao
+a android.arch.persistence.room.Dao 6
+c 6 2/MovieDao
+a android.arch.persistence.room.Query 7
+m 7 2/MovieDao loadPopular
+m 0 2/MovieDao loadPopular
+m 7 2/MovieDao loadTopRated
+m 0 2/MovieDao loadTopRated
+m 7 2/MovieDao loadFavorite
+m 0 2/MovieDao loadFavorite
+m 7 2/MovieDao loadById
+m 0 2/MovieDao loadById
+a android.arch.persistence.room.Insert 8
+m 8 2/MovieDao insertAll
+m 8 2/MovieDao insertMovie
+d 2/MovieDao$DefaultImpls
+d 2/MovieLocalDS
+f 0 2/MovieLocalDS dao
+m 0 2/MovieLocalDS getDao
+m 0 2/MovieLocalDS getPopular
+m 0 2/MovieLocalDS getTopRated
+m 0 2/MovieLocalDS getFavorite
+m 0 2/MovieLocalDS getById
+d 2/MovieRepository
+m 0 2/MovieRepository getPopular
+m 0 2/MovieRepository getTopRated
+m 0 2/MovieRepository getFavorite
+m 0 2/MovieRepository getById
+d 2/MovieDS
+m 0 2/MovieDS getPopular
+m 0 2/MovieDS getTopRated
+d 2/MovieDS$DefaultImpls
+p com.renecabanas.testrappi.themoviedb.data.trailer 3
+d 3/TrailerDao
+c 6 3/TrailerDao
+m 7 3/TrailerDao loadTrailers
+m 0 3/TrailerDao loadTrailers
+m 8 3/TrailerDao insertAll
+d 3/TrailerDao$DefaultImpls
+d 3/TrailerDS
+m 0 3/TrailerDS getTrailers
+d 3/TrailerDS$DefaultImpls
+d 3/TrailerLocalDS
+f 0 3/TrailerLocalDS dao
+m 0 3/TrailerLocalDS getDao
+m 0 3/TrailerLocalDS getTrailers
+d 3/TrailerRemoteDS
+m 0 3/TrailerRemoteDS getTrailers
+d 3/Trailer
+c 2 3/Trailer
+d 3/Trailer$ListDeserializer
+m 0 3/Trailer$ListDeserializer deserialize
+m 3 3/Trailer$ListDeserializer deserialize
+m 3 3/Trailer$ListDeserializer deserialize
+m 3 3/Trailer$ListDeserializer deserialize
+m 0 3/Trailer$ListDeserializer deserialize
+f 4 3/Trailer id
+f 3 3/Trailer id
+m 3 3/Trailer getId
+f 3 3/Trailer movieId
+m 3 3/Trailer getMovieId
+f 3 3/Trailer key
+m 3 3/Trailer getKey
+f 3 3/Trailer name
+m 3 3/Trailer getName
+f 3 3/Trailer site
+m 3 3/Trailer getSite
+f 3 3/Trailer type
+m 3 3/Trailer getType
+d 3/TrailerRepository
+m 0 3/TrailerRepository getTrailers
+p com.renecabanas.testrappi.themoviedb.uimovie 4
+d 4/DetailActivity
+f 0 4/DetailActivity vmClass
+m 0 4/DetailActivity getVmClass
+f 0 4/DetailActivity movieDS
+m 0 4/DetailActivity getMovieDS
+f 3 4/DetailActivity movie
+m 3 4/DetailActivity getMovie
+d 4/DetailActivity$Companion
+d 4/DetailVM
+f 0 4/DetailVM detailLD
+m 0 4/DetailVM getDetailLD
+f 0 4/DetailVM reviewLD
+m 0 4/DetailVM getReviewLD
+f 0 4/DetailVM trailerLD
+m 0 4/DetailVM getTrailerLD
+f 0 4/DetailVM isLoadingLiveData
+m 0 4/DetailVM isLoadingLiveData
+f 0 4/DetailVM throwableLiveData
+m 0 4/DetailVM getThrowableLiveData
+f 0 4/DetailVM detailRepoLD
+m 0 4/DetailVM getDetailRepoLD
+f 0 4/DetailVM reviewRepoLD
+m 0 4/DetailVM getReviewRepoLD
+f 0 4/DetailVM trailerRepoLD
+m 0 4/DetailVM getTrailerRepoLD
+d 4/ReviewAdapter
+d 4/ReviewAdapter$ReviewViewHolder
+f 0 4/ReviewAdapter$ReviewViewHolder author$delegate
+m 0 4/ReviewAdapter$ReviewViewHolder getAuthor
+f 0 4/ReviewAdapter$ReviewViewHolder content$delegate
+m 0 4/ReviewAdapter$ReviewViewHolder getContent
+m 0 4/ReviewAdapter instantiateViewHolder
+d 4/DetailLiveData
+f 0 4/DetailLiveData movieRepo
+m 0 4/DetailLiveData getMovieRepo
+f 3 4/DetailLiveData movieId
+m 3 4/DetailLiveData getMovieId
+d 4/TrailerAdapter
+d 4/TrailerAdapter$TrailerViewHolder
+f 0 4/TrailerAdapter$TrailerViewHolder container$delegate
+m 0 4/TrailerAdapter$TrailerViewHolder getContainer
+f 0 4/TrailerAdapter$TrailerViewHolder name$delegate
+m 0 4/TrailerAdapter$TrailerViewHolder getName
+f 0 4/TrailerAdapter$TrailerViewHolder siteAndType$delegate
+m 0 4/TrailerAdapter$TrailerViewHolder getSiteAndType
+m 0 4/TrailerAdapter instantiateViewHolder
+d 4/TrailerLiveData
+f 0 4/TrailerLiveData repo
+m 0 4/TrailerLiveData getRepo
+f 3 4/TrailerLiveData movieId
+m 3 4/TrailerLiveData getMovieId
+d 4/ReviewLiveData
+f 0 4/ReviewLiveData movieRepo
+m 0 4/ReviewLiveData getMovieRepo
+f 3 4/ReviewLiveData movieId
+m 3 4/ReviewLiveData getMovieId
+d 4/DetailAdapter
+d 4/DetailAdapter$DetailViewHolder
+f 0 4/DetailAdapter$DetailViewHolder movieTitle$delegate
+m 0 4/DetailAdapter$DetailViewHolder getMovieTitle
+f 0 4/DetailAdapter$DetailViewHolder movieDate$delegate
+m 0 4/DetailAdapter$DetailViewHolder getMovieDate
+f 0 4/DetailAdapter$DetailViewHolder movieOverview$delegate
+m 0 4/DetailAdapter$DetailViewHolder getMovieOverview
+f 0 4/DetailAdapter$DetailViewHolder movieRating$delegate
+m 0 4/DetailAdapter$DetailViewHolder getMovieRating
+f 0 4/DetailAdapter$DetailViewHolder moviePopularity$delegate
+m 0 4/DetailAdapter$DetailViewHolder getMoviePopularity
+m 0 4/DetailAdapter instantiateViewHolder
+d 4/MovieVM
+f 0 4/MovieVM resultLiveData
+m 0 4/MovieVM getResultLiveData
+f 0 4/MovieVM isLoadingLiveData
+m 0 4/MovieVM isLoadingLiveData
+f 0 4/MovieVM throwableLiveData
+m 0 4/MovieVM getThrowableLiveData
+f 0 4/MovieVM reposLiveData
+m 0 4/MovieVM getReposLiveData
+d 4/MovieVM$Companion
+f 0 4/MovieVM FILTER_POPULAR
+m 0 4/MovieVM$Companion getFILTER_POPULAR
+f 0 4/MovieVM FILTER_TOP_RATED
+m 0 4/MovieVM$Companion getFILTER_TOP_RATED
+f 0 4/MovieVM FILTER_FAVORITE
+m 0 4/MovieVM$Companion getFILTER_FAVORITE
+d 4/MovieActivity
+f 0 4/MovieActivity vmClass
+m 0 4/MovieActivity getVmClass
+d 4/MovieAdapter
+d 4/MovieAdapter$ReposViewHolder
+f 0 4/MovieAdapter$ReposViewHolder movieTitle$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMovieTitle
+f 0 4/MovieAdapter$ReposViewHolder movieDate$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMovieDate
+f 0 4/MovieAdapter$ReposViewHolder movieOverview$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMovieOverview
+f 0 4/MovieAdapter$ReposViewHolder movieRating$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMovieRating
+f 0 4/MovieAdapter$ReposViewHolder moviePopularity$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMoviePopularity
+f 0 4/MovieAdapter$ReposViewHolder moviePoster$delegate
+m 0 4/MovieAdapter$ReposViewHolder getMoviePoster
+f 3 4/MovieAdapter movie
+m 3 4/MovieAdapter getMovie
+m 0 4/MovieAdapter instantiateViewHolder
+d 4/MovieLiveData
+f 3 4/MovieLiveData filter
+m 3 4/MovieLiveData getFilter
+f 0 4/MovieLiveData repository
+m 0 4/MovieLiveData getRepository
+p com.renecabanas.testrappi.themoviedb.uiintro 5
+d 5/IntroActivity
+f 0 5/IntroActivity TAG
+m 0 5/IntroActivity getTAG
+p com.renecabanas.testrappi.themoviedb.data.review 6
+d 6/ReviewDao
+c 6 6/ReviewDao
+m 7 6/ReviewDao loadReviews
+m 0 6/ReviewDao loadReviews
+m 8 6/ReviewDao insertAll
+d 6/ReviewDao$DefaultImpls
+d 6/ReviewDS
+m 0 6/ReviewDS getReviews
+d 6/ReviewDS$DefaultImpls
+d 6/ReviewRepository
+m 0 6/ReviewRepository getReviews
+d 6/ReviewRemoteDS
+m 0 6/ReviewRemoteDS getReviews
+d 6/ReviewLocalDS
+f 0 6/ReviewLocalDS dao
+m 0 6/ReviewLocalDS getDao
+m 0 6/ReviewLocalDS getReviews
+d 6/Review
+c 2 6/Review
+d 6/Review$ListDeserializer
+m 0 6/Review$ListDeserializer deserialize
+m 3 6/Review$ListDeserializer deserialize
+m 3 6/Review$ListDeserializer deserialize
+m 0 6/Review$ListDeserializer deserialize
+m 3 6/Review$ListDeserializer deserialize
+f 4 6/Review id
+f 3 6/Review id
+m 3 6/Review getId
+f 3 6/Review movieId
+m 3 6/Review getMovieId
+f 3 6/Review author
+m 3 6/Review getAuthor
+f 3 6/Review content
+m 3 6/Review getContent
+p com.renecabanas.testrappi.themoviedb.ext 7
+d 7/ExtensionsKt
+m 0 7/ExtensionsKt log
+m 0 7/ExtensionsKt getResultJson
+p com.renecabanas.testrappi.themoviedb.data 8
+d 8/DBMaker
+f 0 8/DBMaker isDbCreated
+m 0 8/DBMaker isDbCreated
+f 0 8/DBMaker db
+m 0 8/DBMaker getDb
+d 8/ReneDB
+a android.arch.persistence.room.Database 9
+c 9 8/ReneDB
+m 0 8/ReneDB movieDao
+m 0 8/ReneDB reviewDao
+m 0 8/ReneDB trailerDao
+d 8/ReneDB$Companion
+f 0 8/ReneDB DB_NAME

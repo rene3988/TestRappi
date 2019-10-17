@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/renecabanas/.android/build-cache/9a8aac1036fe4fb415e91f6b9f20166ae9b3c258/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/renecabanas/.android/build-cache/13c4c21c125fc03091dba8f39b1a1fcabb23bc0f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renecabanas/.android/build-cache/51ae197a0d9d6b02f224cdf348bf2812debcdeb8/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/renecabanas/.android/build-cache/de3a9de8f04e0dd4d0d4c6822b760896e1568d0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/renecabanas/.android/build-cache/e7eb40b53e6a01d06ad2b50db3613342654a33c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/renecabanas/.android/build-cache/3db71dd59e6907340f43af07b0ef6971090ad3d2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/renecabanas/.android/build-cache/82b0f690297e55c84fdc47c33441d3b062ed270b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/b7a22071b8e16318416fcc8313d9fb2ce60bcf2b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/6aa2227e0144a383009462a2b065080044daeae4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/renecabanas/.android/build-cache/e62e2099a862d7008ca971cbd92aa0e9cc0e91bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/renecabanas/.android/build-cache/c810a8b49aa7bcba3b3c29bec9fc5e74e18becd0/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:7:9-39
+activity#com.renecabanas.testrappi.themoviedb.uiintro.IntroActivity
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:13:9-20:20
+	android:configChanges
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:15:13-59
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:14:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.renecabanas.testrappi.themoviedb.uimovie.MovieActivity
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:21:9-23:61
+	android:configChanges
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:22:13-61
+activity#com.renecabanas.testrappi.themoviedb.uimovie.DetailActivity
+ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:24:9-26:61
+	android:configChanges
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:26:13-59
+	android:name
+		ADDED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml:25:13-62
+uses-sdk
+INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/fff2d8d554bd137f92dbb5b0002c861f18d7457e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/6c329a9b219e0ef4cb59ddb5cf2e258cb9edde06/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/2d2ef55d2f43a1a58ef31784557e241e63aa4cca/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/2c794a9790308df3032f0000a154b697c3da620a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/43e1a33bfd8bdb8ee238d89d297ebc75a8ab0af7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:core:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/2f10cdfc275642cca486ce8e21e0c5afb11eb9f7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /Users/renecabanas/.android/build-cache/9a8aac1036fe4fb415e91f6b9f20166ae9b3c258/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/renecabanas/.android/build-cache/13c4c21c125fc03091dba8f39b1a1fcabb23bc0f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.7.0] /Users/renecabanas/.android/build-cache/e26de3b6bbfd357c8407558dc5a39a57b919ecd2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/renecabanas/.android/build-cache/80f2c486cb8afd2bebdba0313336515427d28b55/output/AndroidManifest.xml:19:5-43
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/renecabanas/.android/build-cache/49ba8ae74db5e7450547ff3cba7df6c63237d65c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/renecabanas/.android/build-cache/8ae451823fcdc1b67598a423a40cd9ab98bf4ec4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/renecabanas/.android/build-cache/7be9a0d0b72cdf2eb682cff9a8f6408bdde808c3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/renecabanas/.android/build-cache/67b11f8d3886ec890b612aa434d1cac1d384b2e8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/renecabanas/.android/build-cache/7046f5ddec2848d6663136776d8583ffa3137a62/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renecabanas/.android/build-cache/51ae197a0d9d6b02f224cdf348bf2812debcdeb8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] /Users/renecabanas/.android/build-cache/97d7bee86a611eea5947be304465761178add656/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/renecabanas/.android/build-cache/de3a9de8f04e0dd4d0d4c6822b760896e1568d0c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/renecabanas/.android/build-cache/e7eb40b53e6a01d06ad2b50db3613342654a33c5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/renecabanas/.android/build-cache/3db71dd59e6907340f43af07b0ef6971090ad3d2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/renecabanas/.android/build-cache/82b0f690297e55c84fdc47c33441d3b062ed270b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/b7a22071b8e16318416fcc8313d9fb2ce60bcf2b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/6aa2227e0144a383009462a2b065080044daeae4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/renecabanas/.android/build-cache/b2ee2dbc7e3b1abe5a8ad0fe17d7e84b8e3c5e66/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/renecabanas/.android/build-cache/e62e2099a862d7008ca971cbd92aa0e9cc0e91bc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/renecabanas/.android/build-cache/c810a8b49aa7bcba3b3c29bec9fc5e74e18becd0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renecabanas/Desktop/TestRappi/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] /Users/renecabanas/.android/build-cache/a16ff1988773f3e4e9873d23047dac65af987c7b/output/AndroidManifest.xml:28:13-81
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/renecabanas/.android/build-cache/9a8aac1036fe4fb415e91f6b9f20166ae9b3c258/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/renecabanas/.android/build-cache/13c4c21c125fc03091dba8f39b1a1fcabb23bc0f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/renecabanas/.android/build-cache/50c10c958dc02b4980879a8b16296354b2240a0e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/renecabanas/.android/build-cache/de3a9de8f04e0dd4d0d4c6822b760896e1568d0c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/renecabanas/.android/build-cache/e7eb40b53e6a01d06ad2b50db3613342654a33c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/renecabanas/.android/build-cache/3db71dd59e6907340f43af07b0ef6971090ad3d2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/renecabanas/.android/build-cache/82b0f690297e55c84fdc47c33441d3b062ed270b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/b7a22071b8e16318416fcc8313d9fb2ce60bcf2b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/renecabanas/.android/build-cache/6aa2227e0144a383009462a2b065080044daeae4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/renecabanas/.android/build-cache/b2ee2dbc7e3b1abe5a8ad0fe17d7e84b8e3c5e66/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/renecabanas/.android/build-cache/e62e2099a862d7008ca971cbd92aa0e9cc0e91bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/renecabanas/.android/build-cache/c810a8b49aa7bcba3b3c29bec9fc5e74e18becd0/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/renecabanas/.android/build-cache/78739a1eccd7c01ccb6d42a2ded9148017d4504c/output/AndroidManifest.xml:26:9-47
